@@ -22,7 +22,7 @@ And yeah -- here's [my picture](4.lexington-53rd-mine.jpg) of the signs and [the
 
 Also, here are [all of the covers in .zip format](https://github.com/gregsadetsky/2600-covers/raw/main/6.covers.zip).
 
-Oh and also I think that it's the same station that was 'featured' in [Improv Everywhere](https://improveverywhere.com/)'s "[High Five Escalator](https://www.youtube.com/watch?v=Abt8aAB-Dr0)" (read more [here](http://www.projectsubwaynyc.com/blog/2017/1/5/stations-escalators-and-high-fives) too). See this [screengrab](5.lexington-53rd-high-five.png).
+Oh and I also learned that it's the same station that was 'featured' in [Improv Everywhere](https://improveverywhere.com/)'s "[High Five Escalator](https://www.youtube.com/watch?v=Abt8aAB-Dr0)" (read more [here](http://www.projectsubwaynyc.com/blog/2017/1/5/stations-escalators-and-high-fives) too). See this [screengrab](5.lexington-53rd-high-five.png).
 
 ## caveat
 
