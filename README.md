@@ -14,7 +14,7 @@ I was riding the escalator on the [Lexington Avenue–53rd Street station](https
 
 The signs looked familiar - were those the signs from that [2600 magazine](https://www.2600.com/) cover from many many years ago?
 
-2600 magazine has an online [cover gallery](https://www.2600.com/Magazine/CoverGallery) but it's hard to use. I downloaded the covers - and then noticed that the filenames were haphazardly named ("su131.gif", "B004GB1WF6.01._SX275_SCLZZZZZZZ_V323076596_.jpg", etc.)
+2600 magazine has an online [cover gallery](https://www.2600.com/Magazine/CoverGallery) but it's hard to use. I downloaded (`wget -i 0.urls.txt`) the covers - and then noticed that the filenames were haphazardly named ("su131.gif", "B004GB1WF6.01._SX275_SCLZZZZZZZ_V323076596_.jpg", etc.)
 
 So I wrote a [throwaway script](3.process.py) to unmangle/rename files.
 
