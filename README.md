@@ -2,7 +2,11 @@
 
 ## TLDR
 
-I wanted to look at 2600 Magazine covers - [here they are](COVERS.md)
+I randomly remembered a 2600 Magazine cover from 1997 and decided to make a thing about it.
+
+## give me the goods
+
+[Here are all of 2600's covers](COVERS.md)
 
 ## why?
 
