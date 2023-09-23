@@ -6,7 +6,7 @@ I randomly remembered a 2600 Magazine cover from 1997 and decided to make a thin
 
 ## give me the goods
 
-[Here are all of 2600's covers](https://gregsadetsky.github.io/2600-covers/COVERS.html)
+[Here are all of 2600's covers](https://2600.greg.technology/COVERS.html)
 
 ## why?
 
