@@ -1,3 +1,7 @@
+[more info about this project](/)
+
+---
+
 ![1987-1](1.imgs/1987-1.gif)
 ![1987-2](1.imgs/1987-2.gif)
 ![1987-3](1.imgs/1987-3.gif)
