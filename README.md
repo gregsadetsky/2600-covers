@@ -30,4 +30,4 @@ this repo will go out of date as soon as 2600 magazine publishes another issue. 
 
 ## huh
 
-this was done on day 0 of my residency at [Recurse Center](https://www.recurse.com/)
+this was done as part of residency at [Recurse Center](https://www.recurse.com/)
